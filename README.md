@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Abdul Maalik (AMQ)
 
-<!--
-**am718/am718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS and Math @ Fordham '27. Founder of Relai. Long Island, NY.
 
-Here are some ideas to get you started:
+I build automation and AI tools for compliance-heavy firms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Relai**: AI automation for architecture/engineering, accounting, recruiting and property management firms
+- **Shipped**: NYC DOB NOW filing automation (260+ filings, zero errors), outreach and CRM systems, Next.js client sites
+- **Looking for**: software, AI engineering and solutions roles after May 2027, NYC or remote
+
+**Stack:** Python, TypeScript, Next.js, Supabase, Playwright, Anthropic and OpenAI APIs
+
+**Links:** [Portfolio](https://abdulmaalikq.vercel.app) · [LinkedIn](https://www.linkedin.com/in/abdulmaalikqasim) · [Email](mailto:amq7182005@gmail.com)
